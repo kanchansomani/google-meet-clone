@@ -1,0 +1,24 @@
+.meet-icons{
+    height: 30px;
+    background-color: gray;
+    border-radius: 50px;
+    padding: 15px;
+    margin: 10px;
+
+}
+
+
+.end-call-icon{
+    height: 60px;
+    margin: 10px;
+}
+
+@media screen and (max-width:600px) {
+    .meet-icons{
+        height: 20px;
+    }
+
+    .end-call-icon{
+        height: 50px;
+    }
+}

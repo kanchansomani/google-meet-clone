@@ -1,0 +1,8 @@
+.component-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.component-icon-container{
+    margin: 5px auto;
+} 
